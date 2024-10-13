@@ -1,2 +1,5 @@
-# UtopiX
-Collab
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
